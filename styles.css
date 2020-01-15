@@ -1,0 +1,8 @@
+h1 {
+    -webkit-transition: border-radius 2s;
+    transition: border-radius 2s
+}
+
+h1: hover {
+    border-radius: 50px;
+}
